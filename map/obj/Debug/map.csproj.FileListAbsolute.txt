@@ -1,0 +1,6 @@
+D:\Angular Apps\map\map\bin\map.dll.config
+D:\Angular Apps\map\map\bin\map.dll
+D:\Angular Apps\map\map\bin\map.pdb
+D:\Angular Apps\map\map\obj\Debug\map.csprojResolveAssemblyReference.cache
+D:\Angular Apps\map\map\obj\Debug\map.dll
+D:\Angular Apps\map\map\obj\Debug\map.pdb
