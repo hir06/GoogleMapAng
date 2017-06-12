@@ -105,7 +105,7 @@
 
             var req = {
                 method: 'GET',
-                url: '../content/MOCK_DATA.json',
+                url: '../content/MOCK_DATA.html',
 
 
             }
