@@ -103,13 +103,13 @@
 
             var def = $q.defer();
 
-            var req = {
-                method: 'GET',
-                url: '../content/MOCK_DATA.html',
+            //var req = {
+            //    method: 'GET',
+            //    url: '../content/MOCK_DATA.html',
 
 
-            }
-            $http(req).then(function(response) {
+            //}
+            $http.get('https://hir06.github.io/GoogleMapAng/map/content/MOCK_DATA.html').then(function (response) {
                 def.resolve({
                     mapData: response.data
                 });
